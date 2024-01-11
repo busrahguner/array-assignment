@@ -1,0 +1,52 @@
+body{
+    margin-top: 50px;
+    background-color: rgba(153, 117, 74, 0.655);
+    text-align: center;
+}
+#container{
+    background-color: bisque;
+    color: rgba(65, 41, 8, 0.858);
+    padding: 50px;
+    margin: auto;
+    width: 40%;
+    border: 3px solid rgb(58, 58, 58);
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    
+}
+#baslik{
+    font-size: 24px;
+}
+#isimler{
+    color: rgba(66, 88, 39, 0.838)
+}
+button{
+    font-size: 16px;
+    padding: 5px 5px;
+    width: 25%;
+    background-color: brown;
+    color:black;
+    height: 50px;
+    border-radius: 10px;  
+}
+#tabloDüzenle{
+    width: 400px;
+    color: rgba(0, 0, 0, 0.858);
+    margin: auto;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    display: block;
+    border:5px rgb(183, 79, 79);
+}
+#displayText{
+    display: flex;
+    flex-direction:column;
+    width: 16 px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
